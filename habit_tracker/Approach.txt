@@ -1,0 +1,7 @@
+📍 Step 1: Basic UI Banana (HTML + CSS)
+
+🎯 Goal:
+Ek input field jisme habit ka naam daalein.
+Ek "Add Habit" button.
+Niche list dikhegi jisme added habits hongi.
+Har habit ke aage ek week ka tracker hoga (Mon to Sun), jisme tick mark kar sakein.
